@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MySafetiypin</string>
+    <string name="security">SECURITY</string>
+    <string name="sos">SOS</string>
+    <string name="sosmsg">In case of emergency, keep telling family members to contact</string>
+    <string name="guard">GUARD</string>
+    <string name="guardmsg">Open when you are on a potentially dangerous journey</string>
+    <string name="home">HOME</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="profile">PROFILE</string>
+    <string name="my_family">My family</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
